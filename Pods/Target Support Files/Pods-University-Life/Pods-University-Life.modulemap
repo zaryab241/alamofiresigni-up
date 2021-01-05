@@ -1,0 +1,6 @@
+framework module Pods_University_Life {
+  umbrella header "Pods-University-Life-umbrella.h"
+
+  export *
+  module * { export * }
+}
